@@ -1,0 +1,19 @@
+{
+  "model1_sentiment_change_to_rating_change": {
+    "slope": 1.5861509318517253,
+    "intercept": 0.008112545582878633,
+    "r_squared": 0.3059016644633399,
+    "n_observations": 10000
+  },
+  "model2_sentiment_to_rating": {
+    "slope": 1.7185761505520496,
+    "intercept": 3.1616772324574747,
+    "r_squared": 0.34854890204273226,
+    "n_observations": 10000
+  },
+  "sample_size": 10000,
+  "interpretation": {
+    "model1_effect": "\u5927\u6548\u5e94",
+    "model2_effect": "\u5927\u6548\u5e94"
+  }
+}

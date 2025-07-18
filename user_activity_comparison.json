@@ -1,0 +1,30 @@
+{
+  "high_active_stats": {
+    "avg_sentiment": 0.6775549919914574,
+    "avg_rating": 4.218633208756007,
+    "sentiment_std": 0.42914394469736084,
+    "sentiment_change_mean": -0.0011953831188266982,
+    "sentiment_change_std": 0.4977337347493736,
+    "positive_change_pct": 46.08650104759054,
+    "rating_change_mean": -0.007931756958994313,
+    "positive_rating_change_pct": 23.323855133193653
+  },
+  "low_active_stats": {
+    "avg_sentiment": 0.4899340981250789,
+    "avg_rating": 4.02347777961181,
+    "sentiment_std": 0.4714970732239591,
+    "sentiment_change_mean": -0.01959168535725729,
+    "sentiment_change_std": 0.5501494225947213,
+    "positive_change_pct": 40.96087436362989,
+    "rating_change_mean": -0.05726440955534195,
+    "positive_rating_change_pct": 20.643312328669587
+  },
+  "volatility_analysis": {
+    "high_active_volatility": 0.29135959008632084,
+    "low_active_volatility": 0.26157884238449497
+  },
+  "sample_sizes": {
+    "high_active_users": 1620,
+    "low_active_users": 46813
+  }
+}

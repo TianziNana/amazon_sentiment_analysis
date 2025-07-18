@@ -1,0 +1,17 @@
+{
+  "overall_correlation": 0.6128572061193899,
+  "single_correlation": 0.6108870038312073,
+  "multi_correlation": 0.6193348399006254,
+  "sample_size": 50000,
+  "single_sample_size": 35000,
+  "multi_sample_size": 15000,
+  "sentiment_mean": 0.4583370200000058,
+  "rating_mean": 3.973305619999967,
+  "single_sentiment_mean": 0.4445756285714443,
+  "multi_sentiment_mean": 0.4904469333333329,
+  "single_rating_mean": 3.9517142857142855,
+  "multi_rating_mean": 4.0236854000000015,
+  "effect_size": "\u5f3a",
+  "method": "stratified_manual_calculation",
+  "correlation_difference": 0.008447836069418124
+}

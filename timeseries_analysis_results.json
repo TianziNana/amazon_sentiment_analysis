@@ -1,0 +1,20 @@
+{
+  "sample_stats": {
+    "users_analyzed": 1000,
+    "records_analyzed": 2396,
+    "sentiment_changes_analyzed": 1396
+  },
+  "sentiment_change_patterns": {
+    "positive_changes_pct": 42.40687679083094,
+    "negative_changes_pct": 42.335243553008596
+  },
+  "hypothesis_results": {
+    "h1_correlation": 0.5414489528981543,
+    "same_direction_pct": 31.733524355300858
+  },
+  "user_behavior": {
+    "avg_volatility": 0.19780068277737817,
+    "avg_sentiment": 0.47133938535462633,
+    "high_active_pct": 2.4
+  }
+}
